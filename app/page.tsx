@@ -161,7 +161,7 @@ export default function Home() {
             </div>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-3 text-sm text-slate-500">
               <span className="inline-flex items-center gap-2"><MapPin size={15} /> Uttar Pradesh, India</span>
-              <span className="inline-flex items-center gap-2"><BriefcaseBusiness size={15} /> 12+ years in technology</span>
+              <span className="inline-flex items-center gap-2"><BriefcaseBusiness size={15} /> 16+ years in technology</span>
               <span className="inline-flex items-center gap-2"><GraduationCap size={15} /> Training & guest lectures</span>
             </div>
           </div>
