@@ -127,7 +127,7 @@ export default function Home() {
             <a className="hover:text-slate-950" href="#teaching">Guest Lectures</a>
             <a className="hover:text-slate-950" href="#contact">Contact</a>
           </nav>
-          <a href="mailto:contact@rebellionrider.com?subject=Guest Lecture / Training Enquiry" className="inline-flex items-center gap-2 rounded-full bg-slate-950 px-4 py-2 text-xs font-semibold text-white transition hover:bg-blue-700">
+          <a href="mailto:rebellionrideryt@gmail.com?subject=Guest Lecture / Training Enquiry" className="inline-flex items-center gap-2 rounded-full bg-slate-950 px-4 py-2 text-xs font-semibold text-white transition hover:bg-blue-700">
             Invite me <ArrowUpRight size={14} />
           </a>
         </div>
@@ -165,7 +165,7 @@ export default function Home() {
             <div className="absolute -inset-5 rounded-[2.5rem] bg-blue-600/10 blur-2xl" />
             <div className="card relative overflow-hidden rounded-[2rem] p-3">
               <div className="relative aspect-[4/5] overflow-hidden rounded-[1.5rem] bg-slate-100">
-                <Image src="/manish-sharma.png" alt="Manish Sharma" fill className="object-cover object-center" priority sizes="(max-width: 1024px) 90vw, 440px" />
+                <Image src="/manish-profile/manish-sharma.png" alt="Manish Sharma" fill className="object-cover object-center" priority sizes="(max-width: 1024px) 90vw, 440px" />
                 <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-slate-950/80 via-slate-950/20 to-transparent p-6 pt-24 text-white">
                   <p className="text-xl font-bold">Manish Sharma</p>
                   <p className="mt-1 text-sm text-white/75">Oracle • SQL • Data Analytics</p>
@@ -261,7 +261,7 @@ export default function Home() {
               <p className="eyebrow !text-blue-400">For colleges & organizations</p>
               <h2 className="mt-3 text-4xl font-black tracking-tight">Bring industry experience into the classroom.</h2>
               <p className="mt-5 leading-7 text-slate-300">I conduct guest lectures, workshops and corporate training focused on practical data skills, database technologies and career readiness.</p>
-              <a href="mailto:contact@rebellionrider.com?subject=Guest Lecture Invitation" className="mt-8 inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-slate-950 hover:bg-blue-50">Request a session <ArrowUpRight size={16} /></a>
+              <a href="mailto:rebellionrideryt@gmail.com?subject=Guest Lecture Invitation" className="mt-8 inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-slate-950 hover:bg-blue-50">Request a session <ArrowUpRight size={16} /></a>
             </div>
             <div className="grid gap-4">
               {teaching.map((item, i) => (
@@ -307,8 +307,8 @@ export default function Home() {
               <p className="mt-4 text-blue-50/90">Share your audience, topic and preferred format. I can suggest a session structure around it.</p>
             </div>
             <div className="mt-8 flex flex-wrap gap-3 lg:mt-0 lg:justify-end">
-              <a href="mailto:contact@rebellionrider.com?subject=Guest Lecture / Training Enquiry" className="inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-blue-700 hover:bg-blue-50"><Mail size={16} /> Email me</a>
-              <a href="https://www.linkedin.com/in/manishsharmaoracle/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-white/30 px-5 py-3 text-sm font-bold text-white hover:bg-white/10"><Linkedin size={16} /> LinkedIn</a>
+              <a href="mailto:rebellionrideryt@gmail.com?subject=Guest Lecture / Training Enquiry" className="inline-flex items-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-bold text-blue-700 hover:bg-blue-50"><Mail size={16} /> Email me</a>
+              <a href="https://www.linkedin.com/in/mannbhardwaj/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-white/30 px-5 py-3 text-sm font-bold text-white hover:bg-white/10"><Linkedin size={16} /> LinkedIn</a>
             </div>
           </div>
           <footer className="flex flex-col gap-3 py-8 text-xs text-slate-400 sm:flex-row sm:items-center sm:justify-between">
