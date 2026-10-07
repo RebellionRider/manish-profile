@@ -318,7 +318,7 @@ export default function Home() {
           </div>
           <footer className="flex flex-col gap-3 py-8 text-xs text-slate-400 sm:flex-row sm:items-center sm:justify-between">
             <p>© 2026 Manish Sharma. Data, databases and practical learning.</p>
-            <div className="flex gap-5"><a className="hover:text-slate-700" href="https://www.rebellionrider.com/" target="_blank" rel="noreferrer">RebellionRider</a><a className="hover:text-slate-700" href="https://www.youtube.com/@ManishSharmaTutorials" target="_blank" rel="noreferrer"><Youtube size={14} className="inline" /> YouTube</a></div>
+            <div className="flex gap-5"><a className="hover:text-slate-700" href="https://www.rebellionrider.com/" target="_blank" rel="noreferrer">RebellionRider</a><a className="hover:text-slate-700" href="https://youtube.com/@rebellionrider/" target="_blank" rel="noreferrer"><Youtube size={14} className="inline" /> YouTube</a></div>
           </footer>
         </div>
       </section>
