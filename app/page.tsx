@@ -127,9 +127,14 @@ export default function Home() {
             <a className="hover:text-slate-950" href="#teaching">Guest Lectures</a>
             <a className="hover:text-slate-950" href="#contact">Contact</a>
           </nav>
-          <a href="mailto:rebellionrideryt@gmail.com?subject=Guest Lecture / Training Enquiry" className="inline-flex items-center gap-2 rounded-full bg-slate-950 px-4 py-2 text-xs font-semibold text-white transition hover:bg-blue-700">
-            Invite me <ArrowUpRight size={14} />
-          </a>
+         <a
+  href="https://www.instagram.com/rebellionrider/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 rounded-full bg-slate-950 px-4 py-2 text-xs font-semibold text-white transition hover:bg-blue-700"
+>
+  DM on Instagram <ArrowUpRight size={14} />
+</a>
         </div>
       </header>
 
