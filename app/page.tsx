@@ -177,7 +177,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="grid grid-cols-3 divide-x divide-slate-200 px-2 py-4 text-center">
-                <div><p className="text-lg font-black">12+</p><p className="text-[11px] text-slate-500">Years</p></div>
+                <div><p className="text-lg font-black">16+</p><p className="text-[11px] text-slate-500">Years</p></div>
                 <div><p className="text-lg font-black">200K+</p><p className="text-[11px] text-slate-500">Content views</p></div>
                 <div><p className="text-lg font-black">Global</p><p className="text-[11px] text-slate-500">Consulting</p></div>
               </div>
@@ -209,7 +209,7 @@ export default function Home() {
       <section className="border-y border-slate-200 bg-white">
         <div className="mx-auto grid max-w-6xl gap-0 px-5 sm:grid-cols-2 lg:grid-cols-4 lg:px-8">
           {[
-            ["12+", "Years across technology & databases"],
+            ["16+", "Years across technology & databases"],
             ["200K+", "Views on educational content"],
             ["7", "Major professional roles shown here"],
             ["Global", "Consulting and training exposure"]
